@@ -1,0 +1,8 @@
+# General
+.DS_Store
+
+# Incomplete Folders
+paris
+paris/*
+misc
+misc/*
